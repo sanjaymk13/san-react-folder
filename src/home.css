@@ -1,0 +1,168 @@
+.row1{
+    display: grid;
+    grid-template-columns: 60% 10% 10% 10% 10%;
+    color: white;
+}
+.overall{
+    width: 1350px;
+    background-color:rgb(22 34 57 / 85%);
+}
+.img1{
+    width: 1350px;
+    height: 500px;
+    position: relative;
+}
+.text1{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    color:darkorange;
+}
+.mk{
+    width: 100px;
+    height: 50px;
+    border-radius: 30%;
+    margin-top: 10px;
+}
+.u1{
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+}
+.lop1{
+    height: 200px;
+    width: 500px;
+}
+.lop2{
+    height: 200px;
+    width: 230px;
+}
+.lop3{
+    height: 200px;
+    width: 230px;
+    margin-left: 40px;
+}
+.klk{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: darkkhaki;
+    font-size: 30px;
+}
+.u2{
+    height: 200px;
+    width: 300px;
+}
+.u3{
+    height: 200px;
+    width: 200px;
+}
+.u4{
+    height: 200px;
+    width: 400px;
+    margin-left: 50px;
+
+}
+.u5{
+    height: 200px;
+    width: 400px;
+}
+.row2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: white;
+}
+.img2{
+    height: 150px;
+    width: 200px;
+    border-radius: 20%;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.lat{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    color: white;
+}
+.last{
+    display: grid;
+    grid-template-columns: 40% 30% 40%;
+    color: white;
+    background-color: black;
+}
+.lastt{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: white;
+   
+}
+.r1{
+    height: 40px;
+    width: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.r2{
+    height: 40px;
+    width: 30px;
+    margin-left: 20px;
+}
+.r3{
+    height: 40px;
+    width: 30px;
+    margin-left: 20px;
+}
+.oi{
+    color: darkblue;
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+
+}
+.t1{
+  margin-top: 100px;
+  margin-left: 50px;
+  color: darkgoldenrod;
+}
+.t2{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: darkkhaki;
+  }
+.img3{
+    height: 150px;
+    width: 200px;
+    border-radius: 20%;
+    margin-left: 350px;
+}
+.img4{
+    height: 150px;
+    width: 200px;
+    border-radius: 20%;
+    margin-left: 100px;
+}
+.c1{
+    background-color: orange;
+}
+.c2{
+    background-color: orangered;
+}
+.c3{
+    background-color: chartreuse;
+}
+.head{
+    color:brown;
+    text-align: center;
+    font-size: 40px;
+}
+.achie{
+    color:brown;
+    text-align: center;
+    font-size: 40px;
+}
+.add{
+    text-align: center;
+    color: brown;
+}

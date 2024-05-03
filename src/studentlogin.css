@@ -1,0 +1,43 @@
+.imhl{
+    width: 1350px;
+    height: 550px;
+    position: relative;
+}
+.userl{
+    position: absolute;
+    top: 130px;
+    left: 550px;
+    color: darkorange;
+    font-size: 40px;
+}
+.userm{
+    position: absolute;
+    top: 255px;
+    left: 450px;
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+.usern{
+    position: absolute;
+    top: 260px;
+    left: 600px;
+}
+.usero{
+    position: absolute;
+    top: 325px;
+    left: 450px;
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+.userp{
+    position: absolute;
+    top: 330px;
+    left: 600px;
+}
+.userq{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+    background-color: chartreuse;
+    color: black;
+}

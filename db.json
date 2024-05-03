@@ -1,0 +1,293 @@
+{
+  "admins": [
+    {
+      "name": "sanjay",
+      "user_id": "123",
+      "gender": "male",
+      "date_of_birth": "2000-10-13",
+      "phone_number": "7094089407",
+      "address":"hfshgfmhdanfsmhf",
+      "email": "shane13mk@gmail.com"
+     
+    }
+  ],
+  "teachers": [
+    {
+      "employee_id": "11",
+      "name": "sanjay",
+      "date_of_birth": "2020-01-10",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "7094089407",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+      
+    },
+    {
+      "employee_id": "12",
+      "name": "sathish",
+      "date_of_birth": "2020-02-10",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+     
+    },
+    {
+      "employee_id": "13",
+      "name": "vasanth",
+      "date_of_birth": "2020-02-15",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+      
+    },
+    {
+      "employee_id": "14",
+      "name": "parthiban",
+      "date_of_birth": "2020-03-10",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+     
+    },
+    {
+      "employee_id": "15",
+      "name": "gopi",
+      "date_of_birth": "2020-01-18",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+     
+    },
+    {
+      "employee_id": "16",
+      "name": "ajith",
+      "date_of_birth": "2020-05-24",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+     
+    },
+    {
+      "employee_id": "17",
+      "name": "mahendran",
+      "date_of_birth": "2020-06-10",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+      
+    },
+    {
+      "employee_id": "18",
+      "name": "sathishkumar",
+      "date_of_birth": "2020-11-10",
+      "gender": "Male",
+      "address": "123 Main St, City, Country",
+      "core_subject": "Mathematics",
+      "phone_number": "123-456-7890",
+      "email": "john.doe@example.com",
+      "qualification": "Master's in Education",
+      "marital_status": "Single"
+      
+    },
+    {
+      
+      "employee_id": "19",
+      "name": "gayle",
+      "gender": "male",
+      "qualification": "b.tech",
+      "address": "jhjhfuyuf",
+      "date_of_birth": "13-10-2000",
+      "phone_number": "",
+      "core_Subject": " maths",
+      "email": "shane13mk@gmail.com",
+      "marital_Status": "",
+      "experience": "0 yrs and 0 months",
+      "contactNumber": {
+        "phone_number": "7094089407"
+      }
+    },
+    {
+      "employee_id": "20",
+      "name": "raina",
+      "gender": "male",
+      "qualification": "b.tech",
+      "address": "gjhf,jhfdhgdsjyr",
+      "date_of_birth": "13-10-2000",
+      "phone_number": "",
+      "core_Subject": "science ",
+      "email": "shane13mk@gmail.com",
+      "marital_Status": "",
+      "experience": "0 yrs and 0 months",
+      "contactNumber": {
+        "phone_number": "7094089407"
+      }
+    }
+  ],
+  "students": [
+    {
+      "roll_number": "001",
+      "name": "naveen",
+      "date_of_birth": "2023-08-20",
+      "class": "10",
+      "section": "A",
+      "gender":"male",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "father_phonenumber":"123456789",
+      "blood_group": "O+"
+     
+    },
+    {
+      "roll_number": "002",
+      "name": "santhosh",
+      "date_of_birth": "2023-09-20",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "O+"
+      
+    },
+    {
+      "roll_number": "003",
+      "name": "dinesh",
+      "date_of_birth": "2023-08-29",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "C+"
+     
+    },
+    {
+      "roll_number": "004",
+      "name": "shalin",
+      "date_of_birth": "2023-06-20",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "B+"
+     
+    },
+    {
+      "roll_number": "005",
+      "name": "rohit",
+      "date_of_birth": "2023-08-13",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "O+"
+     
+    },
+    {
+      "roll_number": "006",
+      "name": "chandru",
+      "date_of_birth": "2023-01-20",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "A+"
+     
+    },
+    {
+      "roll_number": "007",
+      "name": "jagan",
+      "date_of_birth": "2023-01-26",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "B+"
+     
+    },
+    {
+      "roll_number": "008",
+      "name": "pooja",
+      "date_of_birth": "2023-04-04",
+      "class": "10",
+      "section": "A",
+      "father_name": "Bob Smith",
+      "mother_name": "Emily Smith",
+      "address": "456 Oak St, City, Country",
+      "father_occupation": "Engineer",
+      "blood_group": "A+"
+     
+    },
+    {
+      
+      "roll_number": "009",
+      "name": "gayle",
+      "date_of_birth": "2024-04-27",
+      "gender": "",
+      "class": "10",
+      "section": "A",
+      "blood_Group": "",
+      "father_name": "gfhgfhg",
+      "mother_name": "hgfjhfh",
+      "father_occupation": "jhffkyu",
+      "address": "jgfkhgfhgdc",
+      "blood_group": "a+",
+      "email": "shane13mk@gmail.com"
+    },
+    {
+      
+      "roll_number": "010",
+      "name": "mahindran",
+      "date_of_birth": "2024-04-25",
+      "gender": "",
+      "class": "10",
+      "section": "A",
+      "blood_Group": "",
+      "father_name": "fuyjfhyy",
+      "mother_name": "hfmhjfmhg",
+      "father_occupation": "gdhngdmhg",
+      "address": "djhgdjyhdu",
+      "blood_group": "a+",
+      "email": "shane13mk@gmail.com"
+    }
+  ]
+}

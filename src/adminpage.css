@@ -1,0 +1,47 @@
+.h1{
+    width: 300px;
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
+.wh{
+    width: 1350px;
+    background-color: bisque;
+    position: relative;
+}
+.taskbar{
+    background-color: aquamarine;
+    width: 350px;
+    padding: 20px;
+    color: darkblue;
+}
+.edit{
+    color: black;
+}
+.tab{
+    overflow: scroll;
+    width: 1350px;
+    height: 250px;
+    background-color: lightblue;
+    color: darkgreen;
+}
+.adb{
+    position: absolute;
+    top: 20px;
+    left: 900px;
+}
+.ads{
+    position: absolute;
+    top: 20px;
+    left: 1100px;
+}
+.search{
+    color: chocolate;
+}
+.rtr{
+    background-color: chartreuse;
+    color: black;
+    width: 400px;
+    margin-left: 50px;
+    padding-left: 10px;
+}

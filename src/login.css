@@ -1,0 +1,38 @@
+.loginas{
+    color:darkgreen;
+    text-decoration: underline;
+    
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    
+}
+.img{
+    width: 1350px;
+   
+    height: 600px;
+    position: relative;
+}
+.bute{
+    padding: 15px;
+    background-color: aqua;
+    position: absolute;
+    top: 350px;
+    left: 400px;
+   
+}
+.butr{
+    padding: 15px;
+    background-color: aqua;
+    position: absolute;
+    top: 350px;
+    left: 650px;
+}
+.butt{
+    padding: 15px;
+    background-color: aqua;
+    position: absolute;
+    top: 350px;
+    left: 900px;
+   
+}
